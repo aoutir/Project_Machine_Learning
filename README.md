@@ -4,7 +4,7 @@ Given a set of satellite/aerial images acquired from GoogleMaps and ground-truth
 
 ## Build instructions
 
-To run the code you need to download on the root of the project our models from the above [link](https://drive.google.com/drive/folders/1jBvJiEoeOonnyCba2TN7XipkUGmnTzHY)
+To run the code you need to download on the root of the project our models from the above [link](https://drive.google.com/drive/folders/1jBvJiEoeOonnyCba2TN7XipkUGmnTzHY). 
 Specifically the models: unet-depth 3, unet-depth 4, unet-depth 5, DeepLabV3Resnet-101, DeeplabV3MobileNetV3-Large and LR-ASPPMobileNetV3-Large are to be downloaded. 
 
 ## Contributions
