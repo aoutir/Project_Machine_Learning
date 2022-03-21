@@ -1,3 +1,5 @@
+# Extract roads from satellite images
+
 Given a set of satellite/aerial images acquired from GoogleMaps and ground-truth images where each pixel is labeled as {road, background}. The goal of the project is to train a classifier to segment roads in these images, i.e. assign a label {road=1, background=0} to each pixel. 
 
 # Build instructions
